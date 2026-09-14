@@ -1,0 +1,5 @@
+reportlab
+requests
+pillow
+matplotlib
+streamlit
