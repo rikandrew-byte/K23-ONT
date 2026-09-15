@@ -167,4 +167,10 @@ if btn_generate:
 
 # Footer chuyên nghiệp ở cuối trang
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #999; font-size: 13px;'>Dự án nội bộ dành cho <b>EHOU - ONT K23</b><br>Phát triển bởi Andrew Tseng</div>", unsafe_allow_html=True)
+st.markdown("""
+<div style='text-align: center; color: #999; font-size: 13px;'>
+    Dự án nội bộ dành cho <b>EHOU - ONT K23</b><br>
+    Phát triển bởi Andrew Tseng<br><br>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fk23-ont-tuvung.streamlit.app&count_bg=%23c62828&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=L%C6%B0%E1%BB%A3t+truy+c%E1%BA%ADp&edge_flat=true" alt="Lượt truy cập">
+</div>
+""", unsafe_allow_html=True)
