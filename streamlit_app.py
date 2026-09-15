@@ -171,6 +171,6 @@ st.markdown("""
 <div style='text-align: center; color: #999; font-size: 13px;'>
     Dự án nội bộ dành cho <b>EHOU - ONT K23</b><br>
     Phát triển bởi Andrew Tseng<br><br>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fk23-ont-tuvung.streamlit.app&count_bg=%23c62828&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=L%C6%B0%E1%BB%A3t+truy+c%E1%BA%ADp&edge_flat=true" alt="Lượt truy cập">
+    <img src="https://api.visitorbadge.io/api/visitors?path=k23-ont-tuvung.streamlit.app&label=VIEWS&countColor=%23c62828" alt="Lượt truy cập">
 </div>
 """, unsafe_allow_html=True)
